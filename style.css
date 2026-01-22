@@ -413,8 +413,6 @@ footer {
 	}
 
 	.main-section h4 {
-		max-width: 300px;
-		text-align: center;
 		font-size: 1rem;
 	}
 	
@@ -427,6 +425,7 @@ footer {
 	*/
   }
 }
+
 
 
 
