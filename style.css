@@ -380,6 +380,7 @@ footer {
 
     .top-left p {
         font-size: 0.9rem;
+		text-align: left;
     }
 
     .top-center h1 {
@@ -405,3 +406,4 @@ footer {
 	*/
   }
 }
+
