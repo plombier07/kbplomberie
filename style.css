@@ -404,17 +404,18 @@ footer {
         font-size: 2rem;
     }
 
-   /* .top-right .logo-top {
-        width: 180px; 
-		height: 180px;
-    }*/
+	.right-column {
+    	margin-bottom: 40px;
+	}
 	
 	.contact-center-right {
 		margin-top : 30px; 
 	}
 
 	.main-section h4 {
-		max-width: 200px;
+		max-width: 300px;
+		text-align: center;
+		font-size: 1rem;
 	}
 	
 	footer {
@@ -426,6 +427,7 @@ footer {
 	*/
   }
 }
+
 
 
 
