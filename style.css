@@ -86,7 +86,7 @@ body {
     gap: 40px;
 }
 
-.main-section h3{
+.main-section h4 {
 	text-align: center;
 	font-size: 1.5rem;
     font-style: italic;
@@ -422,3 +422,4 @@ footer {
 	*/
   }
 }
+
