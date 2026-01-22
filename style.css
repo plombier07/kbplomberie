@@ -378,9 +378,8 @@ footer {
         text-align: center;
     }
 
-    .top-left p i {
+    .top-left p {
         font-size: 0.9rem;
-		text-align: left;
     }
 
     .top-center h1 {
@@ -406,5 +405,6 @@ footer {
 	*/
   }
 }
+
 
 
