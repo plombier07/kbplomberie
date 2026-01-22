@@ -86,7 +86,7 @@ body {
     gap: 40px;
 }
 
-.main-section h3{
+.main-section h3 {
 	text-align: center;
 	font-size: 1.5rem;
     font-style: italic;
@@ -252,12 +252,6 @@ body {
    margin-top : 10px; 
    text-align: center;
    font-size: 1rem;
-}
-
-.contact-center-right h4 {
-   font-size: 1rem;
-   font-style: italic;
-   margin-bottom: 10px;
 }
 
 .contact-center-right .logo-top {
@@ -427,3 +421,4 @@ footer {
 	*/
   }
 }
+
